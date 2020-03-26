@@ -1,0 +1,7 @@
+D:\Эдуард Сергеевич Смирнов\ProgramsVS\Client-Server\Server\bin\Debug\Server.exe.config
+D:\Эдуард Сергеевич Смирнов\ProgramsVS\Client-Server\Server\bin\Debug\Server.exe
+D:\Эдуард Сергеевич Смирнов\ProgramsVS\Client-Server\Server\bin\Debug\Server.pdb
+D:\Эдуард Сергеевич Смирнов\ProgramsVS\Client-Server\Server\obj\Debug\Server.csprojAssemblyReference.cache
+D:\Эдуард Сергеевич Смирнов\ProgramsVS\Client-Server\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+D:\Эдуард Сергеевич Смирнов\ProgramsVS\Client-Server\Server\obj\Debug\Server.exe
+D:\Эдуард Сергеевич Смирнов\ProgramsVS\Client-Server\Server\obj\Debug\Server.pdb
